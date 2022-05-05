@@ -3,7 +3,7 @@ Velocidade máxima permitida: 70km/h
 A cada 5km acima da vel. máxima, 1 ponto na carteira
 Caso o total de pontos for maior que 12 - > Carteira é "suspendida"
 
-Usos: 
+Usos
 Uso do Math.floor() -> Arredondamento de valores
 */
 
